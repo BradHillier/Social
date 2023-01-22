@@ -1,0 +1,35 @@
+#login-form {
+  width: 400px;
+  height: 400px;
+  background-color: #fff;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 40%);
+  max-width: 100%;
+  max-height: 100%;
+  overflow: auto;
+  padding: 1em 2em;
+  padding: 1rem;
+  border: .2rem solid #ececec;
+  border-radius: 8px;
+  display: table;
+
+}
+    
+#signup-form {
+  width: 400px;
+  height: 400px;
+  background-color: #fff;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 40%);
+  max-width: 100%;
+  max-height: 100%;
+  overflow: auto;
+  padding: 1em 2em;
+  padding: 1rem;
+  border: .2rem solid #ececec;
+  border-radius: 8px;
+  display: table;
+}
+
